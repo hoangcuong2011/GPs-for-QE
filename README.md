@@ -37,9 +37,11 @@ Hybrid Network:
     python DKL_with_pre_training_HoangCuong.py
 
 Note: you can choose a right kernel function from line 184
+
 you can select the option of pre-training by editing line 180
 
 
 
 The code is mainly relied on the code provided by https://github.com/john-bradshaw: (see this: https://github.com/GPflow/GPflow/issues/505#issuecomment-377187887)
 
+Any comments are welcome. Please contact hoangcuong2011@gmail.com
