@@ -16,10 +16,14 @@ To run the code, you need:
 
 Data format:
 
-feature1,feature2,...,feature_n,1
-feature1,feature2,...,feature_n,0
-1: good
-0: negative
+    feature1,feature2,...,feature_n,1
+
+    feature1,feature2,...,feature_n,0
+where
+    
+    1: good
+    
+    0: bad
 
 
 Running the script:
