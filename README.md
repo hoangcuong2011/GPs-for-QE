@@ -13,6 +13,13 @@ To run the code, you need:
 
     sklearn
 
+Data format:
+
+feature1,feature2,...,feature_n,1
+feature1,feature2,...,feature_n,0
+1: good
+0: negative
+
 
 Running the script:
 
